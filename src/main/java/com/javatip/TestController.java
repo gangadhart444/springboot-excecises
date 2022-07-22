@@ -8,6 +8,6 @@ public class TestController {
 
 	@GetMapping("/api/message")
 	public String getMessage() {
-		return "Welcome to ci cd git hub and docker";
+		return "Welcome to ci cd git hub and docker hello";
 	}
 }
